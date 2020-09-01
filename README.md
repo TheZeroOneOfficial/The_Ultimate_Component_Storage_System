@@ -4,4 +4,4 @@ The Ultimate Component Storage System is a unique solution for organizing and st
 **More information can be found here: 
 
 ![Finished_Photo](https://github.com/APTechnologies/The-Ultimate-Component-Storage-System/blob/master/Finished_Photo.jpg)
-![Finished_Model](https://github.com/APTechnologies/The-Ultimate-Component-Storage-System/blob/master/Finished_Model.jpg)
+![Finished_Model](https://github.com/APTechnologies/The-Ultimate-Component-Storage-System/blob/master/Finished_Model.JPG)
