@@ -3,5 +3,5 @@ The Ultimate Component Storage System is a unique solution for organizing and st
 
 **The full project can be found here: https://www.instructables.com/id/The-Ultimate-Component-Storage-System/**
 #
-![Finished_Photo](https://github.com/APTechnologies/The-Ultimate-Component-Storage-System/blob/master/Finished_Photo.jpg)
-![Finished_Model](https://github.com/APTechnologies/The-Ultimate-Component-Storage-System/blob/master/Finished_Model.JPG)
+![Component Storage](https://github.com/APTechnologies/The_Ultimate_Component_Storage_System/blob/master/Comp_Storage%20IMG_1.jpg)
+![Component Storage](https://github.com/APTechnologies/The_Ultimate_Component_Storage_System/blob/master/Comp_Storage%20IMG_2.jpg)
