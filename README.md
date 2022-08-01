@@ -1,4 +1,4 @@
-# The-Ultimate-Component-Storage-System
+# The_Ultimate_Component_Storage_System
 The Ultimate Component Storage System is a unique solution for organizing and storing electronic components. The custom software allows for cataloging of components with a built-in search function to gain quick access to specific components. LEDs above each drawer are used to indicate the position and status of individual, or a group, of components.
 
 **More information can be found here: https://www.instructables.com/id/The-Ultimate-Component-Storage-System/**
